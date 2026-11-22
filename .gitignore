@@ -1,0 +1,8 @@
+# Only scripts, docs and the tools folder go to GitHub.
+# Backups, saved states and NVIDIA driver databases stay on this PC.
+*
+!.gitignore
+!README.md
+!*.ps1
+!tools/
+!tools/MSI_util_v3.exe
