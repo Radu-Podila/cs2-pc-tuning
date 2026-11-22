@@ -37,6 +37,23 @@ Un update de driver șterge profilurile personalizate. Scriptul încarcă pentru
 
 Ecranul poate clipi de două ori: serviciul NVIDIA se oprește și repornește.
 
+### Setările NVIDIA pe alt PC: `nv-migrate.ps1 apply`
+
+`nvidia-settings.json` conține setările mele NVIDIA de acasă: 66 din profilul global și 5 din profilul CS2, inclusiv cele experimentale. Le-am exportat pe 22 noiembrie 2026 de pe driverul 621.24 și o placă RTX 5060. Setările legate de hardware (laptopuri cu două plăci video, alegerea plăcii pentru OpenGL) nu sunt incluse.
+
+Pe orice PC cu placă NVIDIA, din folderul repo-ului, în PowerShell ca Administrator și cu CS2 închis:
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\nv-migrate.ps1 apply -WhatIf   # arată ce s-ar schimba
+powershell -ExecutionPolicy Bypass -File .\nv-migrate.ps1 apply           # aplică și verifică
+```
+
+Înainte de aplicare, scriptul salvează baza NVIDIA a PC-ului respectiv în `apply-<data>\current` și afișează la final comanda de anulare. Pe un driver foarte diferit, unele setări pot fi refuzate; scriptul le listează.
+
+Ca să actualizezi fișierul după ce schimbi setări acasă: `nv-migrate.ps1 export`, apoi commit și push.
+
+> `restore-friday.ps1` și `perfect-state.ps1` merg **doar pe PC-ul de acasă**: au nevoie de backup-urile de acolo, care nu sunt în repo.
+
 ### `cs2-nv.ps1`: setări experimentale NVIDIA doar pentru CS2
 
 | Nume | Ce face | Risc |

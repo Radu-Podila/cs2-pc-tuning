@@ -1,0 +1,434 @@
+﻿{
+    "exported":  "2026-11-22 11:47",
+    "driver":  "621.24",
+    "gpu":  "NVIDIA GeForce RTX 5060",
+    "note":  "User-set values of the global and cs2.exe NVIDIA profiles. Apply with: nv-migrate.ps1 apply",
+    "settings":  [
+                     {
+                         "profile":  "global",
+                         "id":  "0x000F00BA",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x000F00BB",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x00198FFF",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x0019BB68",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x002ECAF2",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x005A375C",
+                         "type":  0,
+                         "value":  "0x96861077"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x0064B541",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x00667329",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x007BA09E",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x0084CD70",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x0098C1AC",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x00A879CF",
+                         "type":  0,
+                         "value":  "0x08416747"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x00AC8497",
+                         "type":  0,
+                         "value":  "0x00004000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x00CE2691",
+                         "type":  0,
+                         "value":  "0x00000014"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x00E73211",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10111133",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x101AE763",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x101E61A9",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10287051",
+                         "type":  0,
+                         "value":  "0x34534064"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1033CEC1",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1033CEC2",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1033CED1",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1033DCD1",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1033DCD2",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1033DCD3",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1034CB89",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10354FF8",
+                         "type":  3,
+                         "value":  "none"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x103BCCB5",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10444444",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x104554B6",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1057EB71",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x106D5CFF",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1074C972",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x107AFC5B",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x107D639D",
+                         "type":  0,
+                         "value":  "0x00000002"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x107EFC5B",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10835002",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1094F157",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1094F16F",
+                         "type":  0,
+                         "value":  "0x34534064"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1094F1F7",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1095F16F",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10A879CE",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10A879CF",
+                         "type":  0,
+                         "value":  "0x00000004"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10D2BB16",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10D48A85",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10D773D2",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10ECDB82",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x10FC2D9C",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x11333333",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x1194F158",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x11AA9E99",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x11AE435C",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x11E91A61",
+                         "type":  0,
+                         "value":  "0xFFFFFFFF"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x201F619F",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x204D9A0C",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x206C28C4",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x2072C5A3",
+                         "type":  0,
+                         "value":  "0x00000002"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x207514C5",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x2089BF6C",
+                         "type":  0,
+                         "value":  "0x00000010"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x2097C2F6",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x209AE66F",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x20A29055",
+                         "type":  0,
+                         "value":  "0xFFFFFFFF"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x20C1221E",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x20D690F8",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x20FDD1F9",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "global",
+                         "id":  "0x20FF7493",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "cs2",
+                         "id":  "0x0078EEE8",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "cs2",
+                         "id":  "0x00A879FF",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "cs2",
+                         "id":  "0x00C63A79",
+                         "type":  0,
+                         "value":  "0x00000001"
+                     },
+                     {
+                         "profile":  "cs2",
+                         "id":  "0x1035DB89",
+                         "type":  0,
+                         "value":  "0x00000000"
+                     },
+                     {
+                         "profile":  "cs2",
+                         "id":  "0x809D5F60",
+                         "type":  0,
+                         "value":  "0x10000000"
+                     }
+                 ]
+}

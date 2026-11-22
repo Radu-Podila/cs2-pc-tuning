@@ -4,5 +4,6 @@
 !.gitignore
 !README.md
 !*.ps1
+!nvidia-settings.json
 !tools/
 !tools/MSI_util_v3.exe
